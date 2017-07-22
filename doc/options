@@ -1,0 +1,26 @@
+-classpath
+'C:/projects/weka/build/classes;C:/Users/512135/.m2/repository/org/pentaho/pentaho-commons/pentaho-package-manager/1.0.8/pentaho-package-manager-1.0.8.jar;C:/Users/512135/.m2/repository/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a.jar'
+-encoding
+'UTF-8'
+-public
+-sourcepath
+'C:/projects/weka/src/main/java'
+-subpackages
+weka:org
+-author
+-bottom
+'Copyright &#169; 2015 <a href="http://www.waikato.ac.nz/">University of Waikato, Hamilton, NZ</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'C:/projects/weka/doc'
+-docencoding
+'UTF-8'
+-doctitle
+'weka-dev 3.7.11.8 API'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' 'C:/projects/weka/dist/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'weka-dev 3.7.11.8 API'
